@@ -26,6 +26,6 @@ python .\examples\editorial_workflow.py --self-check
 
 - [我怎样与 AI 协作](docs/AI_COLLABORATION.md)
 - [合成演示设计](examples/synthetic-demo-plan.md)
-- [此候选包的公开范围](docs/PUBLIC_SCOPE.md)
+- [公开范围](docs/PUBLIC_SCOPE.md)
 
 本文档未包含雇主或客户源码、业务数据、精确住址、账号和凭据。
